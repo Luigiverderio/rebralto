@@ -1,0 +1,198 @@
+*{
+  margin: 0 ;
+}
+body{
+  background-color:#F7F3F5;
+  height: 300%;
+}
+header{
+  height: 100px;
+  width: 100%;
+  z-index: 2;
+}
+header nav{
+  height: 100px;
+  width: 100%;
+  background-color: rgb(46, 46, 46);
+  position: fixed;
+  color: white;
+  color: solid;
+  z-index: 10000;
+}
+#links{
+  display: inline-block;
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  line-height: 100px;
+  margin-left: 200px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-inline: 25px;
+}
+#logoheader{
+  width: 200px;
+  height: 50px;
+  margin-left: 10px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+#links a:hover{
+  color: rgb(200, 179, 179);
+}
+main h1{
+  margin-left: 70px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 40px;
+
+}
+main p{
+  margin-left: 50px;
+  max-width: 750px;
+  margin-top: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  display: inline-block;
+  height: 350px;
+}
+#indeximg h1{
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#indeximg{
+  width: 100%;
+  height: 300px;
+  background-image: url("img/bca9c0_c392b2b1df394b0aaf57a1f3c5f9e9b4.jpg");
+  background-size: cover;
+  
+}
+footer{
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  background-color: #767171;
+  color: rgb(255, 255, 255);
+  height: 50px;
+  line-height: 50px;
+}
+#homem-de-engenheiro{
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: -50px;
+}
+.h1-pag2{
+  text-align: center;
+}
+.galeria{
+  width: 1000px;
+  margin: auto;
+}
+.card{
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif ;
+}
+#card1{
+  background-image: url("img/peca.png");
+  background-size: cover;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+#card2{
+  margin-top: 400px;
+  background-size: cover;
+  position: absolute; 
+  font-size: 20px;
+  margin-left: -340px;
+  width: 400px;
+}
+#card3{
+  margin-top: 600px;
+  background-size: cover;
+  position: absolute; 
+  font-size: 20px;
+  width: 400px;
+  margin-left: -340px;
+}
+#catalogolink{
+  color: black;
+  position: absolute;
+  margin-top: 1000px;
+  margin-left: -300px;
+
+}
+#imgcatalogo{
+  width: 100px;
+  height: 100px;
+  margin-left: -70px;
+}
+#img1servico{
+  width: 400px;
+  height: 200px;
+  margin-left: 100px;
+  margin-bottom: 200px;
+  position: absolute;
+  border-radius: 15px;
+}
+#img2servico{
+  width: 400px;
+  height: 200px;
+  margin-left: 200px;
+  margin-top: 300px;
+  position: absolute;
+  border-radius: 15px;
+}
+#contatoimg{
+  position: absolute;
+  width: 400px;
+  height: 200px;
+  margin-left: -700px;
+  margin-top: 200px;
+}
+#pdosobre{
+  margin-left: 80px;
+}
+#imglocalizacao{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  margin-left: -550px;
+  margin-top: 100px;
+}
+.titulosobre{
+  text-align: center;
+}
+#pdosobre{
+  text-align: center;
+  margin-left: 400px;
+}
+#footersobre{
+  margin-top: 300px;
+}
+#mandarmsg{
+  margin-top: 400px;
+  position: absolute;
+}
+#imgcontato{
+  width: 100%;
+}
+#h1docontato{
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -600px;
+  margin-top: 450px;
+  position: absolute;
+}
